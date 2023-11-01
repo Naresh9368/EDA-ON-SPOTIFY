@@ -4,6 +4,14 @@
 <h1 align="center", margin-top: 20em;>Exploratory Data Analysis On Spotify</h1>
 <h5 align="left">This is a repository containing an exploratory data analysis (EDA) of Spotify data. The data used in this analysis was obtained from the Spotify Web API, using the spotipy Python library.</h5>
 
+
+<div>
+<h2 align="center">Power Bi Dashboard</h2>
+
+  ![spotify-1](https://github.com/Naresh9368/EDA-ON-SPOTIFY/assets/91408179/f7ecf01d-a157-4203-812b-d7e1deebb187)
+</div>
+
+
 <div>
 <h2 align="center">Project Overview</h2>
 <h5 align="left">The purpose of this project is to explore and visualize the data obtained from the Spotify Web API. The main focus of this analysis is to gain insights into the listening behavior of Spotify users, and to identify trends and patterns in the data.</h5>
